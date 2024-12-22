@@ -1,0 +1,18 @@
+{
+  "places": [
+    {"station": "Rajiv Chowk", "places": ["Connaught Place", "Janpath Market", "Palika Bazaar"]},
+    {"station": "Chandni Chowk", "places": ["Red Fort", "Jama Masjid", "Paranthe Wali Gali"]},
+    {"station": "New Delhi", "places": ["India Gate", "National Museum"]},
+    {"station": "Karol Bagh", "places": ["Ajmal Khan Road", "Tank Road Market"]},
+    {"station": "Hauz Khas", "places": ["Hauz Khas Village", "Deer Park"]},
+    {"station": "AIIMS", "places": ["Safdarjung Tomb", "Lodhi Garden"]},
+    {
+            "station": "Saket",
+            "places": ["Qutub Minar", "Garden of Five Senses", "Select City Walk"]
+        },
+        {
+            "station": "Dwarka",
+            "places": ["Dada Dev Mandir", "Dwarka Sector 9 Market", "Pacific Mall Dwarka"]
+        }
+  ]
+}
